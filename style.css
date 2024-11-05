@@ -1,0 +1,64 @@
+body{
+    background-color: wheat;
+}
+
+.title{
+    text-align: center;
+}
+
+.navbar {
+    background-color: salmon;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px 20px;
+   position: sticky;
+   top: 0;
+   z-index: 1000;
+   }
+
+.dust2{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+.timeless{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+.hawks{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+.waving{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+.gardening{
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block{
+    
+    display: block;
+    background-color: beige;
+    width: 1000px;
+    border: 8px saddlebrown;
+    padding: 30px;
+    margin: 15px;
+    height: 350px;
+}
